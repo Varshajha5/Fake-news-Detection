@@ -94,13 +94,8 @@ Open majaorproject.ipynb in Google Colab or Jupyter Notebook.
 
 ⸻
 
-👨‍💻 Team Members
-	•	Aman Kumar Das
-	•	Jnanaranjan Majhi
-	•	Arnab Dolui
-	•	Ramit Kumar Sahoo
-	•	Dibyajyoti Baral
-	•	Pritam Pani
+👨‍💻 Developed by
+	•	Varsha Kumari
 
 B.Tech CSE (2026) — C.V. Raman Global University
 
